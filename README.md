@@ -14,7 +14,7 @@
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
 }
-  "></span></h1>
+  ">👋</span></h1>
 
 I am Suddhasattwa Khan. I am a student from Thapar institute of engineering and technology.
 I am a tech enthusiast and a keen learner. I am fascinated by technology and its uses in the world. 
